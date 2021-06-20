@@ -162,6 +162,11 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
+    @media only screen and (max-width: 421px) {
+        .footer{
+            height: 800px;
+        }
+        }
     .instagram{
       border-top: rgb(0, 0, 0) 1.5vw solid ;
       
