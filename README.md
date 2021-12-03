@@ -8,8 +8,8 @@ With specific Night light 🌙
 <p></p><br />
 <center>
   <p align="center">
-<a href="https://angelhtml.github.io/pizza/"><img src="ezgif.com-gif-maker.gif" border="0"></a>
-<a href="https://angelhtml.github.io/pizza/"><img src="https://iili.io/5pFYV2.gif" border="0"></a>
+<a href="https://angelhtml.github.io/pizza/"><img src="https://i.postimg.cc/Vvycf12n/ffgfg.gif" border="0"></a><br />
+<a href="https://angelhtml.github.io/pizza/"><img src="https://iili.io/5pFYV2.gif" border="0"></a><br />
   </p>
 </center>
 <h1>DEMO</h1>
