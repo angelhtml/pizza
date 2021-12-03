@@ -5,8 +5,12 @@
   <br /></p>
 This web page created with HTML CSS and Javascript
 With specific Night light 🌙
+<p></p><br />
 <center>
-<a href="https://freeimage.host/i/5blTu4"><img src="https://iili.io/5blTu4.md.png" alt="5blTu4.md.png" border="0" width="100%"></a>
+  <p align="center">
+<a href="https://angelhtml.github.io/pizza/"><img src="ezgif.com-gif-maker.gif" border="0"></a>
+<a href="https://angelhtml.github.io/pizza/"><img src="https://iili.io/5pFYV2.gif" border="0"></a>
+  </p>
 </center>
 <h1>DEMO</h1>
 <a href="https://angelhtml.github.io/pizza/">https://angelhtml.github.io/pizza/</a>
